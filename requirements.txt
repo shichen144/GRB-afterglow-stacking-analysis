@@ -1,0 +1,17 @@
+#Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0          # Provides curve_fit, integrate, quad, erfinv, etc.
+
+# Astronomy-specific libraries
+astropy>=6.0.0        # Provides Table, units, fits, coordinates, visualization, etc.
+
+# Plotting
+matplotlib>=3.4.0     # Provides pyplot, gridspec, imshow, etc.
+
+# Data analysis and databases
+pandas>=1.3.0         # Data manipulation and analysis
+requests>=2.26.0      # HTTP requests
+
+# Standard libraries (no installation needed, listed for reference only)
+# os, cmath, math
+
