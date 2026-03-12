@@ -11,7 +11,7 @@ Time: Tue, 10 Mar 2026 04:33:48 UTC
 ## 📁 Repository Structure
 
 - `Data/`: All data files used in the analysis
-  - `all figures/`: Final stacked SEDs and Light Curves results (machine-readable)
+  - `figures/`: Final stacked SEDs and Light Curves results (machine-readable)
 - `Catalogues/`: Gamma-ray Burst Sample Catalogues
 - `Code/`: Analysis scripts
   - `stacking/`: GRB stacking method
