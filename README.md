@@ -11,12 +11,12 @@ Time: Tue, 10 Mar 2026 04:33:48 UTC
 ## 📁 Repository Structure
 
 - `Data/`: All data files used in the analysis
-  - `processed/`: Final stacked SEDs and Light Curves results (machine-readable)
+  - `all figures/`: Final stacked SEDs and Light Curves results (machine-readable)
 - `Catalogues/`: Gamma-ray Burst Sample Catalogues
 - `Code/`: Analysis scripts
-  - `stacking/`: GRB stacking pipeline
+  - `stacking/`: GRB stacking method
   - `fitting/`: Spectral fitting codes
-  - `plotting/`: Figure generation scripts
+  - `plotting/`: Significance map generation script
 - `Model/`: The results of forward shock model
   - `single/`: An example of fitting the LC and SED using the model
   - `population/`: The model results of the group
