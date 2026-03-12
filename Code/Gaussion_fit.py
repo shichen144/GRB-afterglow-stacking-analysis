@@ -11,6 +11,7 @@ binsz = 0.1
 x_ra = 100
 y_dec = 100
 
+#Counts map - Background map
 psf_data = result2 - result1
 
 psf1 = []
@@ -93,5 +94,6 @@ plt.xlabel(r'$\Delta\Theta$ [degree]', fontweight='bold', fontsize=12)
 plt.ylabel('dN/d$\u03A9$ [sr$^{-1}$]', fontweight='bold', fontsize=12)
 plt.tick_params(axis='both', labelsize=10)
 plt.legend(fontsize=10)
+
 
 plt.show()
