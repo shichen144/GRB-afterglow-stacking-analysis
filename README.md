@@ -25,3 +25,13 @@ Time: Tue, 10 Mar 2026 04:33:48 UTC
    ```bash
    git clone https://github.com/shichen144/GRB-afterglow-stacking-analysis.git
    cd GRB-afterglow-stacking-analysis.git
+## Software Requirements
+
+This analysis relies on two main software components:
+
+### 1. Fermi Science Tools
+The raw Fermi data were processed using the official [Fermi Science Tools](https://fermi.gsfc.nasa.gov/ssc/data/analysis/) (version v11r5p3). 
+These tools are required if you wish to reproduce the data reduction steps from the original LAT/LLE files.
+
+### 2. Python Analysis Scripts
+All subsequent stacking, fitting, and plotting were performed with Python 3.8+ using standard scientific libraries.
