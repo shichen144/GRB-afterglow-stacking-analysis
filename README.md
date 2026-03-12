@@ -18,6 +18,8 @@ Time: Tue, 10 Mar 2026 04:33:48 UTC
   - `fitting/`: Spectral fitting codes
   - `plotting/`: Figure generation scripts
 - `Model/`: The results of forward shock model
+  - `single/`: An example of fitting the LC and SED using the model
+  - `population/`: The model results of the group
 
 ## 🚀 Quick Start
 
