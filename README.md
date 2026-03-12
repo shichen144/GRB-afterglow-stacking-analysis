@@ -1,6 +1,6 @@
 # GRB-afterglow-stacking-analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.48550/arXiv.2603.09179)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.09179-b31b1b.svg)](https://arxiv.org/abs/2603.09179)
 
 This repository contains the data and analysis code for the paper:
 
